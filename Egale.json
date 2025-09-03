@@ -103,5 +103,12 @@
         "password": "CONF68",
         "expirydate": "15-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9ed16600c3e67afb",
+        "username": "JITU",
+        "password": "CONUY8",
+        "expirydate": "16-09-2025",
+        "Allowoffline": false
     }
 ]
