@@ -54,5 +54,12 @@
         "password": "COGY78",
         "expirydate": "14-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "96c88a16c0862e00",
+        "username": "JITU",
+        "password": "CO9Y78",
+        "expirydate": "24-09-2025",
+        "Allowoffline": false
     }
 ]
