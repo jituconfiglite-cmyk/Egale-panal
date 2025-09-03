@@ -89,5 +89,12 @@
         "password": "COMQ8",
         "expirydate": "10-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "96306bc45bba2f6a",
+        "username": "JITU",
+        "password": "CBXMQ8",
+        "expirydate": "10-09-2025",
+        "Allowoffline": false
     }
 ]
