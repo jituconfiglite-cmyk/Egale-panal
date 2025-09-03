@@ -33,5 +33,12 @@
         "password": "CON787",
         "expirydate": "12-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c2ee92ef66ccb5bb",
+        "username": "JITU",
+        "password": "CON787",
+        "expirydate": "12-09-2025",
+        "Allowoffline": false
     }
 ]
