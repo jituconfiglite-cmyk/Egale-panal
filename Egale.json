@@ -96,5 +96,12 @@
         "password": "CBXMQ8",
         "expirydate": "10-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5848d5141ecb9ecb",
+        "username": "JITU",
+        "password": "CONF68",
+        "expirydate": "15-09-2025",
+        "Allowoffline": false
     }
 ]
