@@ -138,6 +138,13 @@
         "password": "COG870",
         "expirydate": "14-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4946df388999bcb6",
+        "username": "JITU",
+        "password": "CON35",
+        "expirydate": "14-09-2025",
+        "Allowoffline": false
     }
     
 ]
