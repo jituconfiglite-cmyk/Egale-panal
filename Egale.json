@@ -117,5 +117,13 @@
         "password": "CONFI8",
         "expirydate": "13-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b7d2a18b17c79d71",
+        "username": "JITU",
+        "password": "COBKI8",
+        "expirydate": "14-09-2025",
+        "Allowoffline": false
     }
+    
 ]
