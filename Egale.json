@@ -215,6 +215,13 @@
         "password": "HU789",
         "expirydate": "14-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "eb48fcd81f9deb41",
+        "username": "JITU",
+        "password": "HU7j9",
+        "expirydate": "14-09-2025",
+        "Allowoffline": false
     }
     
     
