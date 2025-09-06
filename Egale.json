@@ -250,6 +250,13 @@
         "password": "SELLvyV",
         "expirydate": "16-09-2025",
         "Allowoffline": false
-    
+    },
+    {
+        "device_id": "bd294eb0e90f12c3",
+        "username": "JITU",
+        "password": "4IFIO",
+        "expirydate": "14-09-2025",
+        "Allowoffline": false
+    }
     
 ]
