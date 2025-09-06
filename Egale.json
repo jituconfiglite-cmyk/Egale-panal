@@ -243,7 +243,13 @@
         "password": "CON6X7",
         "expirydate": "13-09-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "7347917d287e07ba",
+        "username": "AMANBHAI",
+        "password": "SELLvyV",
+        "expirydate": "16-09-2025",
+        "Allowoffline": false
     
     
 ]
