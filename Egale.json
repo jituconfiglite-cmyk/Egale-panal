@@ -257,6 +257,13 @@
         "password": "4IFIO",
         "expirydate": "14-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "18188e4ebfdbad8d",
+        "username": "JITU",
+        "password": "CON7GH",
+        "expirydate": "16-09-2025",
+        "Allowoffline": false
     }
     
 ]
