@@ -264,6 +264,13 @@
         "password": "CON7GH",
         "expirydate": "16-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4bf45129f1c24e09",
+        "username": "AMANBHAI",
+        "password": "ST68G8",
+        "expirydate": "14-09-2025",
+        "Allowoffline": false
     }
     
 ]
