@@ -271,6 +271,13 @@
         "password": "ST68G8",
         "expirydate": "16-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "eae32623a30658ab",
+        "username": "JITU",
+        "password": "CONF79F",
+        "expirydate": "17-10-2025",
+        "Allowoffline": false
     }
     
 ]
