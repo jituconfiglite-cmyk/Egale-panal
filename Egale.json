@@ -278,6 +278,13 @@
         "password": "CONF79F",
         "expirydate": "17-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "def61532c65c7a6e",
+        "username": "HSJSJDJ",
+        "password": "GGGG",
+        "expirydate": "16-09-2025",
+        "Allowoffline": false
     }
     
 ]
