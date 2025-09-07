@@ -285,6 +285,13 @@
         "password": "GGGG",
         "expirydate": "16-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a6e7c381797da1d9",
+        "username": "JITU",
+        "password": "CONHG",
+        "expirydate": "17-09-2025",
+        "Allowoffline": false
     }
     
 ]
